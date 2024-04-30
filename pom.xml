@@ -100,7 +100,7 @@
             <dependency>
                 <groupId>com.amazonaws</groupId>
                 <artifactId>DynamoDBLocal</artifactId>
-                <version>[1.11,2.0)</version>
+                <version>1.24.0</version>
             </dependency>
 			<dependency>
 				<groupId>org.apache.logging.log4j</groupId>
